@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE person SYSTEM "people.dtd">
+<!DOCTYPE people SYSTEM "people.dtd">
 <person>
 	<employee employeed="yes">
 		<name>Amrutha</name>
